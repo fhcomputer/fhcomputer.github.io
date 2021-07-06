@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head> 
+    {{ range .Site.Params.navlinks }}
+    {{ if .home }}
+    <meta http-equiv="refresh" content="0; URL={{ .url | absURL }}" />
+    {{ end }}
+    {{ end }}
+</head>
+
+<html> <body>
+    FHC  développement informatique
+    <br>
+    fhcomputer
+    
+    
+    {{ range first 10 .Data.Pages }}        
+         <h1>{{ .Title }}</h1>
+         <div>{{- .Content -}}</div>
+    {{ end }}      
+</body> </html>
