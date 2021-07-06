@@ -1,5 +1,5 @@
-#baseURL = "https://fhcomputer.github.io/fhc_site"
-baseURL = "https://fhcomputer.github.io/"
+baseURL = "https://fhcomputer.github.io/fhc_site"
+# baseURL = "https://fhcomputer.github.io/"
 languageCode = "en-us"
 title = "FHC website"
 theme = "cactus"

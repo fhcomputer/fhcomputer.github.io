@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on FHC website</title>
-    <link>https://fhcomputer.github.io/posts/</link>
+    <link>https://fhcomputer.github.io/fhc_site/posts/</link>
     <description>Recent content in Posts on FHC website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>You</copyright>
     <lastBuildDate>Tue, 06 Jul 2021 22:23:14 +0200</lastBuildDate>
     
-	<atom:link href="https://fhcomputer.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fhcomputer.github.io/fhc_site/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>https://fhcomputer.github.io/posts/first-post/</link>
+      <link>https://fhcomputer.github.io/fhc_site/posts/first-post/</link>
       <pubDate>Tue, 06 Jul 2021 22:23:14 +0200</pubDate>
       
-      <guid>https://fhcomputer.github.io/posts/first-post/</guid>
+      <guid>https://fhcomputer.github.io/fhc_site/posts/first-post/</guid>
       <description>Hello! Welcome to my blog!</description>
     </item>
     
