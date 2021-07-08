@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# TUTORIAL FLAMEROBIN
 
-You can use the [editor on GitHub](https://github.com/fhcomputer/fhcomputer.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+c:\Users\fherer01\AppData\Local\flamerobin\fr_database.conf
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <nextId>3</nextId>
+  <server>
+    <name>Localhost</name>
+    <host>localhost</host>
+    <database>
+      <id>3</id>
+      <name>TRANSFERT</name>
+**      <path>C:\Users\fherer01\Documents\agrement\data\TRANSFERT.FDB</path>  **
+      <charset>NONE</charset>
+      <username>SYSDBA</username>
+      <password>MASTERKEY</password>
+      <authentication>pwd</authentication>
+    </database>
+  </server>
+</root>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fhcomputer/fhcomputer.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact    fhcomputer@free.fr
